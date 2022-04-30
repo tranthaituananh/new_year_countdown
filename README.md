@@ -7,6 +7,3 @@ This page count down from the current date to the next new year
 * Insert values into the DOM
 * Show a spinner right before loading the countdown
 * Show the coming year in the background
-
-## Demo 
-[Try it](https://tranthaituananh.github.io/new-year-countdown/)
